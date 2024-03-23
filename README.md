@@ -9,3 +9,6 @@ Using all these readings, we can check if the amount of power that is being tran
 After factoring in transmission losses, if the amount of energy being transmitted exceeds the amount of energy that is being used, we can conclude that a theft has occured.
 
 The exact location of power theft can be calculated by using all the readings and the length of the transmission line. The same can be plotted on a map and sent to the concerned authorities for taking action.
+
+
+We have created a simulation of this whole process, which stores the readings in an excel sheet. The main code extracts data from the excel, performs calculations and created a map.html which is sent to the authorities by email.
