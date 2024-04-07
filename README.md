@@ -1,7 +1,7 @@
 # Power-Theft-Mapper
 
 --------- main.py - Script for calculation of theft location, plotting it and sending via email.
---------- Power Theft Location.slx - Simulation file, for MATLAB Simulink
+--------- Power Theft Location.slx - Simulation file, for MATLAB Simulink 
 --------- sim2xl.m - Code to transfer Simulink readings to an Excel Workbook
 
 
