@@ -1,11 +1,15 @@
 # Power-Theft-Mapper
 
---------- Files ---------
+Files:
+
 main.py - Script for calculation of theft location, plotting it and sending via email.
+
 Power Theft Location.slx - Simulation file, for MATLAB Simulink 
+
 sim2xl.m - Code to transfer Simulink readings to an Excel Workbook
 
---------- Project Description ---------
+Project Description:
+
 In a scenario where overhead transmission lines are used to transmit electricity, power theft can easily occur by connecting an external wire to a low voltage transmission line. In that case, we can find out the exact location of the power theft and report it to the respective authorities.
 
 To achieve this we are assuming a scenario where a low voltage transmission line is transmitting power to a smart neighborhood, where the power usage can be monitored. We aim to take the current and voltage readings from these smart homes/consumers to analyse how much power is being consumed.
